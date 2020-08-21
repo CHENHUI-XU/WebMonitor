@@ -1,6 +1,6 @@
 # excercise
 
-A new Flutter project.
+A new Flutter project for monotoring the status of a website.
 
 ## Getting Started
 
